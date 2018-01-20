@@ -1,4 +1,6 @@
 # myGreatProject
 this is awesome one.
 
-this is super cool 
+ 
+
+so you remove it but it still shows in the history
